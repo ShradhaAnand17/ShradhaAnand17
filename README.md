@@ -24,12 +24,14 @@ I’m an undergrad in Biotechnology exploring **bioinformatics & computational b
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo.svg" alt="Biopython" width="40" height="40"/>
 </p>
+
   
 
 ---
 
-🌱 Actively exploring tools in **bioinformatics & computational biology**  
+🧬 Actively exploring tools in **bioinformatics & computational biology**  
 🤝 Open to collaborations at the intersection of **biology, AI, and healthcare innovation**  
 
 <!-- Optional: GitHub stats, badges, or activity widgets -->
